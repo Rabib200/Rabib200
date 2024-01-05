@@ -14,24 +14,23 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
+const rabib = {
+    gender: "Male",
     code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "sports","research"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
+        Frameworks: {
+            js: ["Node","React","Next"],
+            php: ["Laravel"],
+            python: ["Django"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["Docker🐳"],
+        databases: ["mongo", "MySql", "postgresql"],
+        testingTools: ["cypress", "JUnit", "selenium"],
+        Design: ["Canva","Figma"],
+        misc: ["PowerPoint Animation"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    
 };
 ```
 
