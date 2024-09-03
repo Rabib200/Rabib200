@@ -22,7 +22,7 @@ const rabib = {
     askMeAbout: ["web dev", "tech", "sports","research"],
     technologies: {
         Frameworks: {
-            js: ["Node","React","Next"],
+            js: ["Node","React","Next","Nest"],
             php: ["Laravel"],
             python: ["Django"],
         },
