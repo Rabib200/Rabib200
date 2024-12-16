@@ -19,10 +19,10 @@
 const rabib = {
     gender: "Male",
     code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "sports","research"],
+    askMeAbout: ["web dev", "tech", "sports","research", "system design"],
     technologies: {
         Frameworks: {
-            js: ["Node","React","Next","Nest"],
+            js: ["Next","Nest"],
             php: ["Laravel"],
             python: ["Django"],
         },
