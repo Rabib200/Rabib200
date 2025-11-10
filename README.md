@@ -43,7 +43,6 @@
 
 | **Contact**                  | **Details**                           |
 |------------------------------|---------------------------------------|
-| 📞 Phone                     | 0880 1701503990                       |
 | 📧 Email                     | rabibhaque200@gmail.com               |
 | 🌐 Location                  | Dhaka, Bangladesh                     |
 
