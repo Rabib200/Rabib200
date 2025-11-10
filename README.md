@@ -1,39 +1,49 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Rabib <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.munchies.com.bd/">Munchies
-<p><em>Undergraduate Teaching Assistant at <a href="https://www.uiu.ac.bd/">United International University
+# 👋 Hi, I'm Motammim Haque Rabib
 
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+| **Experience**                      | **Role**                 | **Duration**              | **Highlights**                                                                 |
+|-------------------------------------|--------------------------|---------------------------|--------------------------------------------------------------------------------|
+| Uddom (Remote)                      | Full Stack Engineer      | July 2025 - Present       | Built two full-stack platforms, integrated AI models, managed architecture & deployment |
+| Munchies                            | Software Engineer L02/L03| June 2023 - Present       | Led backend team; optimized platform performance, managed infra for 100+ partners |
+| KD Systems                          | Jr. Software Engineer    | Dec 2022 - May 2023       | Built AI travel & HR platforms, scaled usage, developed RBAC & multi-region features |
 
+---
 
-[![Linkedin: rabib](https://img.shields.io/badge/-rabib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/motammim-haque-852a901ba/)](https://www.linkedin.com/in/motammim-haque-852a901ba/)
-![GitHub](https://img.shields.io/github/followers/Rabib200?label=Follow&style=social)
+| **Projects**                          | **Tech Stack/Tools Used**                                | **Impact**                                             |
+|---------------------------------------|---------------------------------------------------------|--------------------------------------------------------|
+| Travelia.ai (AI travel calendar)      | React.js, Next.js, Node.js, OpenAI API, PostgreSQL      | Reduced booking time by 50%; scaled to 5,000 users     |
+| Dive HR Global (HR management portal) | React.js, Next.js, Node.js, PostgreSQL                  | Hosted 1,000+ sessions across 15 countries             |
+| SchoolSync (Learning Platform)        | AI, BERT ChatGPT                                        | Real-time feedback, adaptive learning                  |
+| Voice2Policy (Civic engagement)       | NestJS, Next.js, Docker, AWS SageMaker                  | AI policy summarization; 1,000 concurrent users        |
+| Uddom (Crowdfunding)                  | NestJS, Next.js, Docker, AWS                            | Designed end-to-end system architecture                |
 
+---
 
+| **Expertise & Skills**      | **Details**                                 |
+|----------------------------|----------------------------------------------|
+| Languages                  | TypeScript, JavaScript, Python               |
+| Frameworks & Libraries     | NestJS, React, Next.js, Flask               |
+| Databases                  | PostgreSQL, MySQL, MongoDB                   |
+| Tools/Platforms            | Git, Azure, Docker, AWS, Digital Ocean       |
+| AI / ML                    | TensorFlow, PyTorch, BERT, OpenAI API        |
 
+---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+| **Education**                                   | **Institute**                   | **Achievements**                |
+|-------------------------------------------------|----------------------------------|----------------------------------|
+| B.Sc. in Computer Science Engineering (2024)    | United International University | CGPA: 3.82, Dean's Award, Magna Cum Laude, FYDP Project Runner Up |
 
-```javascript
-const rabib = {
-    gender: "Male",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "sports","research", "system design"],
-    technologies: {
-        Frameworks: {
-            js: ["Next","Nest"],
-            php: ["Laravel"],
-            python: ["Django"],
-        },
-        devOps: ["Docker🐳"],
-        databases: ["mongo", "MySql", "postgresql"],
-        testingTools: ["cypress", "JUnit", "selenium"],
-        Design: ["Canva","Figma"],
-        misc: ["PowerPoint Animation"]
-    },
-    
-};
-```
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> 😊</em>
+| **Languages**        | **Proficiency**        |
+|----------------------|------------------------|
+| English              | Fluent                 |
+| Bengali              | Native                 |
+
+---
+
+| **Contact**                  | **Details**                           |
+|------------------------------|---------------------------------------|
+| 📞 Phone                     | 0880 1701503990                       |
+| 📧 Email                     | rabibhaque200@gmail.com               |
+| 🌐 Location                  | Dhaka, Bangladesh                     |
+
