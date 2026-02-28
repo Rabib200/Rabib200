@@ -106,10 +106,6 @@ CGPA: 3.82 | Dean's Award | Magna Cum Laude | 1st Runner Up FYDP Project Show
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabib200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabib200&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rabib200&theme=tokyonight&hide_border=true)
 
 </div>
