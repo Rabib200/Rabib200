@@ -88,7 +88,7 @@ Boosted performance by 40% via service-level caching and query optimization. Bui
 
 | Period | Role | Company | Key Impact |
 |--------|------|---------|------------|
-| **2025 - Present** | Software Engineer | **Getonnet / Tixio** | Current role |
+| **2025 - Present** | Full Stack Engineer | **Getonnet / Tixio** | Current role |
 | **2025** | Full Stack Engineer | **Uddom** (Remote) | Built 2 production platforms end-to-end, architected for 10K users |
 | **2023 - 2025** | Software Engineer (L02 → L03) | **Munchies** | Led backend team of 4, promoted in 10 months, 40% performance boost |
 | **2022 - 2023** | Jr. Software Engineer | **KD Systems** | Shipped Travelia.ai (5K users) and Dive HR (15+ countries) |
